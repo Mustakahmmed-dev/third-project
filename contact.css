@@ -1,0 +1,16 @@
+.nav-link:hover{
+    color: coral;
+}
+.dropdown-item:focus{
+    background-color: coral;
+    color: gray;
+}
+    /* The Navbar Ends Here */
+    
+    /* This Is The Cover  */
+#coverlayout{
+    background-size: cover;
+    width: 100%;
+    height: 50vh;
+    background-color:rgb(000, 000, 000);
+}
