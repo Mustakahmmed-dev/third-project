@@ -6,3 +6,8 @@
 body{
     background-color:lightgray;
 }
+#wl-mess{
+    color:red;
+    padding: 20px;
+    background-color: aqua;
+}
